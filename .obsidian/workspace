@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "a27ac16f49d10aa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "72886fe5d91a1485",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022 - Segundo Semestre/notes/Logica Matematica/01 Teoría de Grafos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "89fefb001834fc48",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "150e17150b7571ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "a47e72f96fd55e12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54dd5a73c7652fbc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b612d709021a057d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbaf4a0fa5f0cfb1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "b8910e75a873f0c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ee7dce0ab169d47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdbd09b038e60cad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e6adffb1f982e601",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "432faf4f37224c0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9d1989a127cc2fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "89fefb001834fc48",
+  "lastOpenFiles": [
+    "2022 - Segundo Semestre/notes/Logica Matematica/01 Teoría de Grafos.md",
+    "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md",
+    "Organization.md",
+    "[[.md",
+    "assets/IMG_8EC7282ABA72-1.jpeg",
+    "Untitled.md",
+    "Libros/Learning Domain Driven Design.md",
+    "templates/New Note.md",
+    "templates/Book Notes.md",
+    "image.jpg"
+  ]
+}
