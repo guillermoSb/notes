@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022 - Segundo Semestre/notes/Logica Matematica/01 Teoría de Grafos.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "89fefb001834fc48",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
+            "file": "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md"
               }
             }
           }
@@ -141,14 +129,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89fefb001834fc48",
+  "active": "72886fe5d91a1485",
   "lastOpenFiles": [
     "2022 - Segundo Semestre/notes/Logica Matematica/01 Teoría de Grafos.md",
+    "Untitled.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md",
     "Organization.md",
     "[[.md",
     "assets/IMG_8EC7282ABA72-1.jpeg",
-    "Untitled.md",
     "Libros/Learning Domain Driven Design.md",
     "templates/New Note.md",
     "templates/Book Notes.md",
