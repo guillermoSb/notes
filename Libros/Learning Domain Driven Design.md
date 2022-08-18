@@ -31,3 +31,6 @@ This diagram shows how we can model the relationships between contexts on a busi
 
 # Implementing Simple Business Logic
 
+## Transaction Script
+On this approach we use direct comunication with the database via `SQL` and include the use of transactions. The approach should be ==all or nothing==.
+A common mistake is using different transactions on the same funciton, leading to inconsistent results. Other thing can be that the transaction succeeds but the service in charge of sending a resp
