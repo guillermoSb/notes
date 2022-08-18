@@ -29,3 +29,5 @@ This diagram shows how we can model the relationships between contexts on a busi
 
 ![[Pasted image 20220815165201.png]]
 
+# Implementing Simple Business Logic
+
