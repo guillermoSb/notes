@@ -4,4 +4,4 @@ Una coloración es cuando tenemos un grafo lineal y le asignamos un color a cada
 El número mínimo de colores a utilizar se llama número cromático
 
 #### Teorema 9
-
+El # cromático de un grafo plano no es mayor a 4
