@@ -28,3 +28,4 @@ In this case the two teams go on their different ways. These can mean communicat
 This diagram shows how we can model the relationships between contexts on a business. For example in this case, the legacy system is sharing something with the billing. Also the marketing marketing conforms to the billing team.
 
 ![[Pasted image 20220815165201.png]]
+
