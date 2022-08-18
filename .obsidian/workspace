@@ -7,12 +7,8 @@
         "id": "72886fe5d91a1485",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022 - Segundo Semestre/notes/Teoría de la Computación/Propiedades de Decisión de Los Lenguajes Regulares.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022 - Segundo Semestre/notes/Teoría de la Computación/Propiedades de Decisión de Los Lenguajes Regulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022 - Segundo Semestre/notes/Teoría de la Computación/Propiedades de Decisión de Los Lenguajes Regulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022 - Segundo Semestre/notes/Teoría de la Computación/Propiedades de Decisión de Los Lenguajes Regulares.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -129,7 +121,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72886fe5d91a1485",
+  "active": "54dd5a73c7652fbc",
   "lastOpenFiles": [
     "Libros/Learning Domain Driven Design.md",
     "2022 - Segundo Semestre/notes/Ing de Software/Notas de Clase.md",
