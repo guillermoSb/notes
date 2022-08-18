@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conexo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "b8910e75a873f0c1",
