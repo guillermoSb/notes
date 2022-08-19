@@ -33,4 +33,11 @@ This diagram shows how we can model the relationships between contexts on a busi
 
 ## Transaction Script
 On this approach we use direct comunication with the database via `SQL` and include the use of transactions. The approach should be ==all or nothing==.
-A common mistake is using different transactions on the same funciton, leading to inconsistent results. Other thing can be that the transaction succeeds but the service in charge of sending a resp
+A common mistake is using different transactions on the same funciton, leading to inconsistent results. Other thing can be that the transaction succeeds but the service in charge of sending a response fails, in that case the client might try again but that can duplicate the action. We can use this approach for very simple business logic.
+
+## Active Record
+An active record is an object that includes basic CRUD operations. It is the next level of abstraction after transactions. For example we can create a object called `User` like Sequelize and we need to implement methods to save it, remove it, find one, etc. We can use this approach for simple business logic with complex data structures.
+
+	Neither of these two should be used for core sub domains.
+
+
