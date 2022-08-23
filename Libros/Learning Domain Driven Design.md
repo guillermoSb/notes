@@ -74,5 +74,5 @@ This is the aggregate that is designed as the aggregate's public interface.
 Domain events are used by Aggregates to publish some actions that have happened. For example `ticketAssigned, postCreated, postLiked`. Other aggregates or parts of an applications can subscribe to those events and react to them.
 
 ### Domain Services
-Is an object without state that implements business logic. 
+Is an object without state that implements business logic. Domain services are most used for calculations.
 
