@@ -59,7 +59,7 @@ Every method that changes a property on the Value Objects should return a new in
 ### Entities
 An Entity requires an identification field to be distinguished from other entities. An Entity is composed by value objects. ==Entities are mutable==.
 
-## Aggregates
+### Aggregates
 An aggregate is an Entity that has constraints on how other people can interact with it. An aggregate should define a public api so other parts of the platform can mutate its state. But only the aggregate can be free to update its state directly.
 An aggregate groups entities that are related.
 Rules for aggregates
@@ -71,4 +71,8 @@ Rules for aggregates
 This is the aggregate that is designed as the aggregate's public interface.
 
 ### Domain Events
-Domain events are used by Aggregates to publish some actions that have happened. For example `ticketAssigned, postCreated, postLiked,`
+Domain events are used by Aggregates to publish some actions that have happened. For example `ticketAssigned, postCreated, postLiked`. Other aggregates or parts of an applications can subscribe to those events and react to them.
+
+### Domain Services
+Is an object without state that implements business logic. 
+
