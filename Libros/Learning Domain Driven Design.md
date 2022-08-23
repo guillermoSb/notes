@@ -54,4 +54,6 @@ The domain model is a collection of behaviour and data. The domain model is comp
 A value object can be identified by the composition of its values. It does not need an unique identifier to differentiate it from the others. For example colors: each color has a unique rgb combination.
 Value objects help us to leave behind generic data types. 
 	We can use the value objects to place the **validation  logic** inside them. For example, validating that an email is correct, etc.
+Every method that changes a property on the Value Objects should return a new instance. This is because ==value objects are inmutable==. 
 
+### En
