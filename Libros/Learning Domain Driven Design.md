@@ -62,3 +62,13 @@ An Entity requires an identification field to be distinguished from other entiti
 ## Aggregates
 An aggregate is an Entity that has constraints on how other people can interact with it. An aggregate should define a public api so other parts of the platform can mutate its state. But only the aggregate can be free to update its state directly.
 An aggregate groups entities that are related.
+Rules for aggregates
+- keep them as small as possible.
+- only add entities that are very strongly dependent to keep a consistent state.
+- reference fields by id if they are not on the aggregate.
+
+#### Aggregate Root
+This is the aggregate that is designed as the aggregate's public interface.
+
+### Domain Events
+Domain events are used by Aggregates to publish some actions that have happened. For example `ticketAssigned, postCreated, postLiked,`
