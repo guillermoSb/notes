@@ -61,4 +61,4 @@ An Entity requires an identification field to be distinguished from other entiti
 
 ## Aggregates
 An aggregate is an Entity that has constraints on how other people can interact with it. An aggregate should define a public api so other parts of the platform can mutate its state. But only the aggregate can be free to update its state directly.
-
+An aggregate groups entities that are related.
