@@ -60,4 +60,5 @@ Every method that changes a property on the Value Objects should return a new in
 An Entity requires an identification field to be distinguished from other entities. An Entity is composed by value objects. ==Entities are mutable==.
 
 ## Aggregates
-An aggregate is an Entity that has constraints on how other people can interact with it. An aggregate should define a public api so other parts of the platform can mutate its state. But only the aggregate can be free to update 
+An aggregate is an Entity that has constraints on how other people can interact with it. An aggregate should define a public api so other parts of the platform can mutate its state. But only the aggregate can be free to update its state directly.
+
