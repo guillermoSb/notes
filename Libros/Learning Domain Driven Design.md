@@ -49,4 +49,8 @@ The domain model is a collection of behaviour and data. The domain model is comp
 - value objects
 - domain events
 - domain services
-- 
+
+### Value Objects
+A value object can be identified by the composition of its values. It does not need an unique identifier to differentiate it from the others. For example colors: each color has a unique rgb combination.
+Value objects help us to leave behind generic data types. 
+	We can use the value objects to place the **valid**
