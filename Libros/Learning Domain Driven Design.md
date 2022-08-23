@@ -41,3 +41,8 @@ An active record is an object that includes basic CRUD operations. It is the nex
 	Neither of these two should be used for core sub domains.
 
 
+# Implementing Complex Business Logic
+To implement complex business logic there is a need of using a more strict structure. 
+## Domain Model
+The domain model is a collection of behaviour and data. The domain model is composed of
+- aggregate
