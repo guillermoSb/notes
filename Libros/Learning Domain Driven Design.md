@@ -79,4 +79,12 @@ Is an object without state that implements business logic. Domain services are m
 # Modeling the Dimension of Time
 For aggregates that need to take into account their changes over time, the **event sourcing pattern** allow us to recreate any version of the aggregate by saving all the state changes. ==The action of getting a state of the aggregate is called projection==. We can create any projection depending of the use that we want to give to the aggregate.
 ## Source of truth
-All events should be persisted on a database called the **Event Store**, this database is insertion and read only. We cannot change the events except for very important situations.
+All events should be persisted on a database called the **Event Store**, this database is insertion and read only. We cannot change the events except for very important situations. All changes of the Aggregate state should be expressed as events.
+
+**Advantages**
+- Allows to re create any version of the Aggregate.
+- Can be used for logs and insights
+**Disadvantages**
+- Evolving the domain model can be challenging.
+
+In conclusion, this type of Aggregate is very useful for things like histories, where we need to track all the changes on an Aggregates states. For example on inland we have multiple package status histories, but it would have been better to have just one and a database keeping 
