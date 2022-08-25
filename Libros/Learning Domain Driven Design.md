@@ -76,3 +76,5 @@ Domain events are used by Aggregates to publish some actions that have happened.
 ### Domain Services
 Is an object without state that implements business logic. Domain services are most used for calculations.
 
+# Modeling the Dimension of Time
+For aggregates that need to take into account their changes over time, the **event sourcing pattern** allow us to recreate any version of the aggregate by saving all the state changes. ==The action of getting a state of the aggregate is called projection==. 
