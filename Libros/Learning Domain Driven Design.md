@@ -87,4 +87,4 @@ All events should be persisted on a database called the **Event Store**, this da
 **Disadvantages**
 - Evolving the domain model can be challenging.
 
-In conclusion, this type of Aggregate is very useful for things like histories, where we need to track all the changes on an Aggregates states. For example on inland we have multiple package status histories, but it would have been better to have just one and a database keeping 
+In conclusion, this type of Aggregate is very useful for things like histories, where we need to track all the changes on an Aggregates states. For example on inland we have multiple package status histories, but it would have been better to have just one and a database keeping all the history changes.
