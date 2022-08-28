@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Libros/Learning Domain Driven Design.md",
+            "file": "Libros/MicroServices.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libros/Learning Domain Driven Design.md",
+                "file": "Libros/MicroServices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libros/Learning Domain Driven Design.md",
+                "file": "Libros/MicroServices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libros/Learning Domain Driven Design.md"
+                "file": "Libros/MicroServices.md"
               }
             }
           }
@@ -131,8 +131,8 @@
   },
   "active": "72886fe5d91a1485",
   "lastOpenFiles": [
-    "Libros/MicroServices.md",
     "Libros/Learning Domain Driven Design.md",
+    "Libros/MicroServices.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/03 Coloración de Grafos.md",
     "2022 - Segundo Semestre/notes/Ing de Software/Notas de Clase.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/01 Trayectorias y Circuitos.md",
