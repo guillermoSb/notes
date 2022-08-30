@@ -10,4 +10,5 @@ E^i = Todas las cadenas finitas de largo i.
 
 
 #### Def 2
-Sea A un conjunto no vacío finito un alfabeto
+Sea **A** un conjunto no vacío finito un alfabeto. Un lenguaje sobre este alfabeto es un subconjunto de A+.
+
