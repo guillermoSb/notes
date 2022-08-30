@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Libros/MicroServices.md",
+            "file": "2022 - Segundo Semestre/notes/Logica Matematica/04 Automatas Finitos Deterministas.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libros/MicroServices.md",
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/04 Automatas Finitos Deterministas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libros/MicroServices.md",
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/04 Automatas Finitos Deterministas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libros/MicroServices.md"
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/04 Automatas Finitos Deterministas.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "72886fe5d91a1485",
   "lastOpenFiles": [
-    "Libros/Learning Domain Driven Design.md",
-    "Libros/MicroServices.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/03 Coloración de Grafos.md",
+    "2022 - Segundo Semestre/notes/Logica Matematica/04 Automatas Finitos Deterministas.md",
+    "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md",
+    "Libros/MicroServices.md",
+    "Libros/Learning Domain Driven Design.md",
     "2022 - Segundo Semestre/notes/Ing de Software/Notas de Clase.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/01 Trayectorias y Circuitos.md",
     "2022 - Segundo Semestre/notes/Graficas Por Computadora/Perlin Noise.md",
-    "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md",
     "Organization.md",
-    "Untitled.md",
-    "[[.md"
+    "Untitled.md"
   ]
 }
