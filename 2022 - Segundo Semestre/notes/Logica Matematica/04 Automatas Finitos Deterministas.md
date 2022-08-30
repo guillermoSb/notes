@@ -6,4 +6,8 @@ E* = Todas las posibles combinaciones incluyendo la cadena vacía. O sea todas l
 E^i = Todas las cadenas finitas de largo i.
 
 ### Características de la cadena vacía
+- Ex = xE = x
 
+
+#### Def 2
+Sea A un conjunto no vacío finito un alfabeto
