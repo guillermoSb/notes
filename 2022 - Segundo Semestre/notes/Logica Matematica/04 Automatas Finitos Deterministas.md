@@ -17,4 +17,4 @@ Una gramática de estructuras de frase para especificar un lenguaje consta de 4 
 - un conjunto de terminales T
 - conjunto de no terminales N
 - conjunto de producciones P
-- un no terminal especial en N que es el no terminal inicial.
+- un no terminal especial en N que es el no terminal inicial. S
