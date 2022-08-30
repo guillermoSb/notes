@@ -12,3 +12,7 @@ E^i = Todas las cadenas finitas de largo i.
 #### Def 2
 Sea **A** un conjunto no vacío finito un alfabeto. Un lenguaje sobre este alfabeto es un subconjunto de A+.
 
+#### Def
+Una gramática de estructuras de frase para especificar un lenguaje consta de 4 elementos:
+- un conjunto de terminales T
+- 
