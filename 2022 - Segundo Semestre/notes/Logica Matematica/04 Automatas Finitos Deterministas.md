@@ -20,4 +20,4 @@ Una gramática de estructuras de frase para especificar un lenguaje consta de 4 
 - un no terminal especial en N que es el no terminal inicial. S
 
 #### Def 4
-Una gramática es una gramática de tipo
+Una gramática es una gramática de tipo 3 si todas las producciones de la gramática son de las formas A -> o A -> aB, de manera equivalente, de las formas A -> a o A -> Ba.
