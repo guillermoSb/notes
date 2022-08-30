@@ -12,9 +12,12 @@ E^i = Todas las cadenas finitas de largo i.
 #### Def 2
 Sea **A** un conjunto no vacío finito un alfabeto. Un lenguaje sobre este alfabeto es un subconjunto de A+.
 
-#### Def
+#### Def 3
 Una gramática de estructuras de frase para especificar un lenguaje consta de 4 elementos:
 - un conjunto de terminales T
 - conjunto de no terminales N
 - conjunto de producciones P
 - un no terminal especial en N que es el no terminal inicial. S
+
+#### Def 4
+Una gramática es una gramática de tipo
