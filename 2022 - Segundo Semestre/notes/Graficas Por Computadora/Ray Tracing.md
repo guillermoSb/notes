@@ -8,5 +8,9 @@ tenemos una funcion que se llama glRender que va a renderizar cada cuadro.
 
 
 
+## Reflexiones
+
+
+
 
 
