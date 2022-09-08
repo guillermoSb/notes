@@ -26,4 +26,4 @@ Una gramática es una gramática de tipo 3 si todas las producciones de la gram�
 ### Demostrar que un lenguaje no es regular
 
 #### Teorema 4 
-El ==lema del bombeo== dice que sea L un lenguaje de estado finito aceptado por una máquina de estado finito con N estados. Para cualquier sucesión en el lenguaje, cuya longitud es mayor o igual que N (número de estados), la cadena puede escribirse de la forma uvw. De manera que: v no esté vacía y uv^iw
+El ==lema del bombeo== dice que sea L un lenguaje de estado finito aceptado por una máquina de estado finito con N estados. Para cualquier sucesión en el lenguaje, cuya longitud es mayor o igual que N (número de estados), la cadena puede escribirse de la forma uvw. De manera que: v no esté vacía y uv^iw también está en el lenguaje para i >= 0.
