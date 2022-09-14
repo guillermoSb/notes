@@ -16,7 +16,8 @@
 	- Creando la matriz proyección 
 		- ángulo de visión, asumiendo que el near plane es 1
 		- t = cálculo de top
-		- r ¿
+		- r = t * aspectRatio
+	- 
 
 
 
