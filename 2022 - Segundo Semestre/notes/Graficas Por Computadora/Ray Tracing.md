@@ -8,7 +8,10 @@
 
 ## Renderer
 
-- función glRender:
+- función glRender: 
+	- Pasa pixel por pixel
+	- pasa de coordenadas de ventana a coordenadas NDC (-1 a 1)
+	- 
 
 
 
