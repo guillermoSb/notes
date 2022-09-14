@@ -5,7 +5,10 @@
 - radio
 - coordenadas para el centro
 - función rayIntersect(self, orig, dir):
-	calcular cada valor de la esfera: L, 
+	calcular cada valor de la esfera: L, tca, d
+	si d es mayor al radio regresar False
+	si no regresar true
+	
 
 
 ## Renderer
