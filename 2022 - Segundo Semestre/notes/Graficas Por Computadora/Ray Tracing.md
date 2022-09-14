@@ -10,8 +10,10 @@
 - propiedad scene que tiene una lista de objetos (figuras)
 - función castRay: crea cada rayo
 	- recibe el origen del rayo y su dirección
-	- busca el intercepto con algún rayo
-	- 
+	- busca el intercepto con algún objeto es un booleano
+	- busca en cada objeto en la escena llamando a la función que detecta el intercepto mandando el origen y la dirección
+	- si
+
 - función glRender: 
 	- Pasa pixel por pixel
 	- pasa de coordenadas de ventana a coordenadas NDC (-1 a 1)
