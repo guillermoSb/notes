@@ -6,6 +6,10 @@
 - coordenadas para el centro
 
 
+## Renderer
+
+- función glRender:
+
 
 
 
