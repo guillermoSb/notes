@@ -10,6 +10,7 @@
 - propiedad scene que tiene una lista de objetos (figuras)
 - función castRay: crea cada rayo
 	- recibe el origen del rayo y su dirección
+	- busca el intercepto con algún rayo
 	- 
 - función glRender: 
 	- Pasa pixel por pixel
