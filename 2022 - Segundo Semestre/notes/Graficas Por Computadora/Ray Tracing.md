@@ -8,11 +8,14 @@
 
 ## Renderer
 - propiedad scene que tiene una lista de objetos (figuras)
+- propiedad camPosition con la posición de la cámara
 - función castRay: crea cada rayo
 	- recibe el origen del rayo y su dirección
 	- busca el intercepto con algún objeto es un booleano
 	- busca en cada objeto en la escena llamando a la función que detecta el intercepto mandando el origen y la dirección
-	- si
+	- si hay un intercepto
+		- regresar el color actual
+		- si no hay intercepto regresar nada
 
 - función glRender: 
 	- Pasa pixel por pixel
@@ -27,7 +30,8 @@
 	- multiplicamos Py por t
 	- creamos la dirección a la que va a ir el rayo V3(Px, Py, '-1') 
 		- debe de estar normalizada
-	- 
+	- llamar a la función cast ray
+	- si la función cast ray regresa un color dibujar un punto 
 
 
 
