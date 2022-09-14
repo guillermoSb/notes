@@ -4,6 +4,8 @@
 **Propiedades básicas**
 - radio
 - coordenadas para el centro
+- función rayIntersect(self, orig, dir):
+	calcular cada valor de la esfera: L, 
 
 
 ## Renderer
@@ -40,3 +42,4 @@
 
 
 
+![[Captura de Pantalla 2022-09-13 a la(s) 7.43.05 p.m..png]]
