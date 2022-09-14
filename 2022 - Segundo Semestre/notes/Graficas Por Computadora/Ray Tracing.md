@@ -7,6 +7,7 @@
 
 
 ## Renderer
+- propiedad scene que tiene una lista de objetos (figuras)
 - función castRay: crea cada rayo
 	- recibe el origen del rayo y su dirección
 	- 
