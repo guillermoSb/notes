@@ -50,3 +50,7 @@
 
 ## Luces
 
+Para calcular el color que se dibuja:
+
+1. Calcular el color del intercepto
+	1. 
