@@ -51,6 +51,13 @@
 ## Luces
 
 Para calcular el color que se dibuja:
+A cada luz le asignamos un integer que indica el tipo de la luz
 
-1. Calcular el color del intercepto
-	1. 
+1. Calcular el color del intercepto si hay intercepto
+	1. una variable que guarda el color final del rayo
+	2. una variable con el color del objeto (dado por el material del intercepto)
+	3. una variable que guarde el color de la luz direccional
+	4. iterar por cada luz en la escena
+		1. para la luz direccional
+			1. 
+	5. regresar el color final
