@@ -59,5 +59,8 @@ A cada luz le asignamos un integer que indica el tipo de la luz
 	3. una variable que guarde el color de la luz direccional
 	4. iterar por cada luz en la escena
 		1. para la luz direccional
-			1. 
+			2. variable que guarda la direccion de la luz * -1
+			3. variable que guarda la intensidad de la luz calculada por el producto punto entre el intercepto y la dirección de la luz
+			4. asegurarnos que la intensidad siempre es mayor a 0
+			5. 
 	5. regresar el color final
