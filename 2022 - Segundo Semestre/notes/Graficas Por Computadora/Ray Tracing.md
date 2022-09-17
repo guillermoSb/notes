@@ -65,6 +65,8 @@ A cada luz le asignamos un integer que indica el tipo de la luz
 			4. asegurarnos que la intensidad siempre es mayor a 0
 			5. asignar al diffuse color el nuevo valor rgb multiplicado por la intencidad
 			6. sumar a la variable que guarda el color global de la luz direccional
+		7. 
 	5. hacer que el final color sea igual a el color de la luz direccional
 	6. multiplicar el final color por el color del objeto
+	7. hacer que el color final este entre 0 y 1
 	8. regresar el color final
