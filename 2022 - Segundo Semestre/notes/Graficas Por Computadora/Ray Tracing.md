@@ -66,13 +66,13 @@ A cada luz le asignamos un integer que indica el tipo de la luz
 			4. asegurarnos que la intensidad siempre es mayor a 0
 			5. asignar al diffuse color el nuevo valor rgb multiplicado por la intencidad
 			6. sumar a la variable que guarda el color global de la luz direccional
+			7. calcular ==sombras==
+			8. buscar un shadowIntersect que es otro scene intersect **evitar revisar el objeto** 
+			9. El nuevo rayo tiene origen en el que se hizo intersect
+			10. 
 		2. Para una luz ambiental
 			1. variable que guarda el color de la luz ambiental que es el color de la luz ambiental por la intensidad
 	6. hacer que el final color sea igual a el color de la luz direccional + el color de la luz ambiental
 	7. multiplicar el final color por el color del objeto
 	8. hacer que el color final este entre 0 y 1
 	9. regresar el color final
-
-
-## Sombras
-Idea general: Generar más rayos
