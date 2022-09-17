@@ -57,7 +57,8 @@ A cada luz le asignamos un integer que indica el tipo de la luz
 	1. una variable que guarda el color final del rayo
 	2. una variable con el color del objeto (dado por el material del intercepto)
 	3. una variable que guarde el color de la luz direccional
-	4. iterar por cada luz en la escena
+	4. una variable que guarde el 
+	5. iterar por cada luz en la escena
 		1. para la luz direccional
 			1. variable que guarda el diffuseColor que inicialmente sera negro
 			2. variable que guarda la direccion de la luz * -1
@@ -65,8 +66,9 @@ A cada luz le asignamos un integer que indica el tipo de la luz
 			4. asegurarnos que la intensidad siempre es mayor a 0
 			5. asignar al diffuse color el nuevo valor rgb multiplicado por la intencidad
 			6. sumar a la variable que guarda el color global de la luz direccional
-		7. 
-	5. hacer que el final color sea igual a el color de la luz direccional
-	6. multiplicar el final color por el color del objeto
-	7. hacer que el color final este entre 0 y 1
-	8. regresar el color final
+		2. Para una luz ambiental
+			1. crear otra luz
+	6. hacer que el final color sea igual a el color de la luz direccional
+	7. multiplicar el final color por el color del objeto
+	8. hacer que el color final este entre 0 y 1
+	9. regresar el color final
