@@ -64,7 +64,7 @@ A cada luz le asignamos un integer que indica el tipo de la luz
 			2. variable que guarda la direccion de la luz * -1
 			3. variable que guarda la intensidad de la luz calculada por el producto punto entre el intercepto y la dirección de la luz
 			4. asegurarnos que la intensidad siempre es mayor a 0
-			5. asignar al diffuse color el nuevo valor rgb de la multiplicado por la intencidad
+			5. asignar al diffuse color el nuevo valor rgb de la luz multiplicado por la intencidad
 			
 			7. calcular ==sombras==
 			8. hacer una variable que guarda la intensidad de la sombra. Por defecto es 0
