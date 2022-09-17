@@ -67,9 +67,10 @@ A cada luz le asignamos un integer que indica el tipo de la luz
 			5. asignar al diffuse color el nuevo valor rgb multiplicado por la intencidad
 			6. sumar a la variable que guarda el color global de la luz direccional
 			7. calcular ==sombras==
-			8. buscar un shadowIntersect que es otro scene intersect **evitar revisar el objeto** 
-			9. El nuevo rayo tiene origen en el que se hizo intersect
-			10. 
+			8. hacer una variable que guarda la intensidad de la sombra. Por defecto es 0
+			9. buscar un shadowIntersect que es otro scene intersect **evitar revisar el objeto** para eso pasar una referencia al mismo objeto
+			10. El nuevo rayo tiene origen en el que se hizo intersect, la dirección de la luz porque queremos ver si hay un objeto entre la luz y el intercepto
+			11. Si el nuevo rayo tiene 
 		2. Para una luz ambiental
 			1. variable que guarda el color de la luz ambiental que es el color de la luz ambiental por la intensidad
 	6. hacer que el final color sea igual a el color de la luz direccional + el color de la luz ambiental
