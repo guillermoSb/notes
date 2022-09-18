@@ -100,6 +100,9 @@ En la luz direccional: L es el vector de la luz, R es el vector reflejado
 3. Calcular la dirección de la vista, que es la resta entre la posición de la cámara y el punto de contacto
 4. Normalizarla
 5. calcular la intensidad especular, que es la intensidad de la luz por el maximo entre 0 y el producto punto entre la dirección de la vista y el valor del vector de reflejo.
+6. Agregar una propiedad al material sobre qué tan especular es por defecto 1
+7. elevar la intensidad especular por la propiedad de que tan especular es el material
+8. el color especular es la intensidad especular por el color de la luz
 
 
 ![[Captura de Pantalla 2022-09-18 a la(s) 2.44.10 p.m..png]]
