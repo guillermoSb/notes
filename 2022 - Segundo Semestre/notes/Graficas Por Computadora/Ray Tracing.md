@@ -83,13 +83,14 @@ A cada luz le asignamos un integer que indica el tipo de la luz
 	3. hacer que el color final este entre 0 y 1
 	4. regresar el color final
 
-## Specularidad
-Que tan reflectiva es es una superficie. Depende de que tanto absorbe el color mientras más alta, el punto blanco en donde pega la luz es más pequeño.
-
 
 ## Attenuation
 Utilizamos el valor constante, lineal y cuadrático de la luz. La formula para calcularla es
 `att = 1.0/(Kc + Kl * d + Kq * d^2)`
+
+## Specularidad
+Que tan reflectiva es es una superficie. Depende de que tanto absorbe el color mientras más alta, el punto blanco en donde pega la luz es más pequeño.
+
 
 Multiplicar la intensidad por el valor de la attenuacion
 
@@ -103,6 +104,7 @@ En la luz direccional: L es el vector de la luz, R es el vector reflejado
 6. Agregar una propiedad al material sobre qué tan especular es por defecto 1
 7. elevar la intensidad especular por la propiedad de que tan especular es el material
 8. el color especular es la intensidad especular por el color de la luz
+9. sumar el diffuseColor por el specColor
 
 
 ![[Captura de Pantalla 2022-09-18 a la(s) 2.44.10 p.m..png]]
