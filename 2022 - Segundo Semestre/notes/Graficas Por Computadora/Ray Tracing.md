@@ -93,8 +93,11 @@ Utilizamos el valor constante, lineal y cuadrático de la luz. La formula para c
 
 Multiplicar la intensidad por el valor de la attenuacion
 
-En la luz direccional:
+En la luz direccional: L es el vector de la luz, R es el vector reflejado
+`R = 2 * (N . L) * N - L`
+1. calcular el vector de reflejo utilizando la formula de arriba.
+2. el vector de reflejo debe estar normalizado
+3. 
 
 
-
-
+![[Captura de Pantalla 2022-09-18 a la(s) 2.44.10 p.m..png]]
