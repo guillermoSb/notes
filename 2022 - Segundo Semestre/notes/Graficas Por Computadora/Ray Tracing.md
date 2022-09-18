@@ -75,8 +75,14 @@ A cada luz le asignamos un integer que indica el tipo de la luz
 		2. Para una luz ambiental
 			1. variable que guarda el color de la luz ambiental que es el color de la luz ambiental por la intensidad
 		3. Para un point light (tiene un origen, un color, constante, valor lineal, valor cuadratico)
-			1. la direccion del point light es el punto de origen de la luz - el punto del intersect. 
+			1. la direccion del point light es el punto de origen de la luz - el punto del intersect.
+			2. Utilizar cálculos similares a la luz direccional para iluminar los objetos.
+			3. 
 	1. hacer que el final color sea igual a el color de la luz direccional + el color de la luz ambiental
 	2. multiplicar el final color por el color del objeto
 	3. hacer que el color final este entre 0 y 1
 	4. regresar el color final
+
+## Atenuacion
+Utilizamos el valor constante, lineal y cuadrático de la luz.
+
