@@ -74,7 +74,7 @@ A cada luz le asignamos un integer que indica el tipo de la luz
 			12.  sumar a la variable que guarda el color global de la luz direccional el diffuseColor
 		2. Para una luz ambiental
 			1. variable que guarda el color de la luz ambiental que es el color de la luz ambiental por la intensidad
-		3. Para un point light (tiene un origen y un color)
+		3. Para un point light (tiene un origen, un color, constante, valor lineal, valor cuadratico)
 			1. 
 	1. hacer que el final color sea igual a el color de la luz direccional + el color de la luz ambiental
 	2. multiplicar el final color por el color del objeto
