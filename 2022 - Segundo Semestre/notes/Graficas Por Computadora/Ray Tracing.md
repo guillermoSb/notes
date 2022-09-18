@@ -83,6 +83,12 @@ A cada luz le asignamos un integer que indica el tipo de la luz
 	3. hacer que el color final este entre 0 y 1
 	4. regresar el color final
 
-## Atenuacion
-Utilizamos el valor constante, lineal y cuadrático de la luz.
+## Attenuation
+Utilizamos el valor constante, lineal y cuadrático de la luz. La formula para calcularla es
+`att = 1.0/(Kc + Kl * d + Kq * d^2)`
+
+Multiplicar la intensidad por el valor de la attenuacion
+
+
+
 
