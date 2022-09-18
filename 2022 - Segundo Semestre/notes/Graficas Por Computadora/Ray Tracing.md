@@ -93,6 +93,8 @@ Utilizamos el valor constante, lineal y cuadrático de la luz. La formula para c
 
 Multiplicar la intensidad por el valor de la attenuacion
 
+En la luz direccional:
+
 
 
 
