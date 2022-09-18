@@ -97,7 +97,9 @@ En la luz direccional: L es el vector de la luz, R es el vector reflejado
 `R = 2 * (N . L) * N - L`
 1. calcular el vector de reflejo utilizando la formula de arriba.
 2. el vector de reflejo debe estar normalizado
-3. 
+3. Calcular la dirección de la vista, que es la resta entre la posición de la cámara y el punto de contacto
+4. Normalizarla
+5. calcular la intensidad especular, que es la intensidad de la luz por el maximo entre 0 y el producto punto entre la dirección de la vista y el valor del vector de reflejo.
 
 
 ![[Captura de Pantalla 2022-09-18 a la(s) 2.44.10 p.m..png]]
