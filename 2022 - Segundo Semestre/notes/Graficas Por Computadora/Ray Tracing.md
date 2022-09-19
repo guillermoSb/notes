@@ -87,12 +87,10 @@ A cada luz le asignamos un integer que indica el tipo de la luz
 ## Attenuation
 Utilizamos el valor constante, lineal y cuadrático de la luz. La formula para calcularla es
 `att = 1.0/(Kc + Kl * d + Kq * d^2)`
-
+Multiplicar la intensidad por el valor de la attenuacion
 ## Specularidad
 Que tan reflectiva es es una superficie. Depende de que tanto absorbe el color mientras más alta, el punto blanco en donde pega la luz es más pequeño.
 
-
-Multiplicar la intensidad por el valor de la attenuacion
 
 En la luz direccional: L es el vector de la luz, R es el vector reflejado
 `R = 2 * (N . L) * N - L`
