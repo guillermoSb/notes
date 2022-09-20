@@ -108,4 +108,13 @@ En la luz direccional: L es el vector de la luz, R es el vector reflejado
 ![[Captura de Pantalla 2022-09-18 a la(s) 2.44.10 p.m..png]]
 
 
-## 
+## Reflexiones
+Algoritmos de Whitted
+
+3 casos
+- Superficie opaca
+- Superficie reflexiva
+	- se emite un rayo
+- Superficie transparente
+	- se refleja un rayo
+	- refracción
