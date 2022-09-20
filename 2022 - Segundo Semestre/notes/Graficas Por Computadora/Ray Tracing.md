@@ -145,3 +145,8 @@ En la clase de textura
 
 - metodo para obtener el env color
 	- recibe dirección
+
+
+
+
+## 
