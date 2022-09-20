@@ -130,3 +130,5 @@ al castear el rayo
 	- creamos un vector de reflejo, la normal es la del intercepto y la dirección es la del rayo ==negada==.?
 	- Obtener el nuevo color del reflejo
 		- llamando la nueva función de recursión en el mismo punto con la dirección del vector reflejado
+		- si importa la especularidad
+		- el **finalColor** sera igual al reflectColor
