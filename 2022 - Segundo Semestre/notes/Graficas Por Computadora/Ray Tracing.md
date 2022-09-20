@@ -135,3 +135,13 @@ al castear el rayo
 		- si importa la especularidad
 		- el **finalColor** sera igual al reflectColor
 		- revisar que no haga contacto conmigo mismo
+
+
+Environment Maps
+
+- utilizamos una ecuaci'on especial para obtener las coordenadas x,y de el objeto a dibujar.
+
+En la clase de textura
+
+- metodo para obtener el env color
+	- recibe dirección
