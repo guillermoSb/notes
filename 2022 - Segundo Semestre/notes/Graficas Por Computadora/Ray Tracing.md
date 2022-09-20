@@ -121,3 +121,5 @@ Algoritmos de Whitted
 
 Para reflejar un rayo
 generamos el nuevo rayo, y buscamos en donde intercepta. Para esto necesitamos **recursión**. 
+
+Agregar una propiedad a un material que indique si es opaca, reflectiva o transparente.
