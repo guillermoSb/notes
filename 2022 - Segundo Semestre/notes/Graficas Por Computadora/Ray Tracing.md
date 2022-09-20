@@ -118,3 +118,6 @@ Algoritmos de Whitted
 - Superficie transparente
 	- se refleja un rayo
 	- refracción
+
+Para reflejar un rayo
+generamos el nuevo rayo, y buscamos en donde intercepta. Para esto necesitamos **recursión**. 
