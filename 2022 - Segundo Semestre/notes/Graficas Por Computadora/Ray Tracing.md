@@ -122,6 +122,8 @@ Algoritmos de Whitted
 Para reflejar un rayo
 generamos el nuevo rayo, y buscamos en donde intercepta. Para esto necesitamos **recursión**. 
 
+==Agregar una propiedad global para el max recursion depth==
+
 Agregar una propiedad a un material que indique si es opaca, reflectiva o transparente.
 
 al castear el rayo
@@ -132,3 +134,4 @@ al castear el rayo
 		- llamando la nueva función de recursión en el mismo punto con la dirección del vector reflejado
 		- si importa la especularidad
 		- el **finalColor** sera igual al reflectColor
+		- revisar que no haga contacto conmigo mismo
