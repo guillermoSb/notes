@@ -151,4 +151,5 @@ En la clase de textura
 
 ## Refracción
 
-Un material tiene un índice de refracción **ior** que
+Un material tiene un índice de refracción **ior** que indica que tánto se dobla un rallo de lúz cuando entra a un material.
+
