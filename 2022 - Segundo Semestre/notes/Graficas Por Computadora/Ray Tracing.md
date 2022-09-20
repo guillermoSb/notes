@@ -123,3 +123,10 @@ Para reflejar un rayo
 generamos el nuevo rayo, y buscamos en donde intercepta. Para esto necesitamos **recursión**. 
 
 Agregar una propiedad a un material que indique si es opaca, reflectiva o transparente.
+
+al castear el rayo
+- Si el material es opaco, realizar el calculo normal de la luz
+- Si el material es reflectivo
+	- creamos un vector de reflejo, la normal es la del intercepto y la dirección es la del rayo ==negada==.?
+	- Obtener el nuevo color del reflejo
+		- llamando la nueva función de recursión en el mismo punto con la dirección del vector reflejado
