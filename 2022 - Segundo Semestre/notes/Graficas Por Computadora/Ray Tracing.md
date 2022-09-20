@@ -149,4 +149,6 @@ En la clase de textura
 
 
 
-## 
+## Refracción
+
+Un material tiene un índice de refracción **ior** que
