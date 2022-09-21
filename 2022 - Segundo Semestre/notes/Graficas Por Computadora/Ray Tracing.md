@@ -178,5 +178,5 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 		1. el origen del vector de reflejo será igual a la suma del intercepto.point + el bias
 	5. En caso de estar a dentro
 		1. El origen del vector de reflejo será igual a la resta del intercepto.point - el bias
-	6. Obtener el vector de refracción 
-	7. kr = fresnel(intersect.normal, dir, material.ior)
+	6. El nuevo color de reflejo lo obtenemos de castear el rayo desde el origen que obtuvimos, la dirección del reflejo, y le pasamos una referencia nil en el sceneObject
+	9. kr = fresnel(intersect.normal, dir, material.ior)
