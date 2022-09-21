@@ -172,4 +172,7 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 4. Agregar un valor **ior** al material
 5. Cuando casteamos el rayo, si la superficie es transparente
 	1. detectar si el rayo que incide viene de afuera haciendo un producto punto entre entre la dirección del rayo y la normal. Si este resultado es menor a 0 entonces el rayo viene de afuera
-	2. Agregar un **bias** que es un margen de error. Para que el rayo no tope consigo mismo
+	2. Agregar un **bias** que es un margen de error. Para que el rayo no tope consigo mismo. Es un vector que es la normal * 0.001
+	3. Obtener un vector de reflección utilizando de la misma forma que se usó en la superficie reflectiva
+	4. Obtener el 
+	5. kr = fresnel(intersect.normal, dir, material.ior)
