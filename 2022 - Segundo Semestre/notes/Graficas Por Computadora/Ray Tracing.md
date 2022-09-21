@@ -171,4 +171,4 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 	1. Recib
 4. Agregar un valor **ior** al material
 5. Cuando casteamos el rayo, si la superficie es transparente
-	1. detectar si el rayo que incide viene de afuera haciendo un producto punto entre entre la dirección del rayo y la normal
+	1. detectar si el rayo que incide viene de afuera haciendo un producto punto entre entre la dirección del rayo y la normal. Si este resultado es menor a 0 entonces el rayo viene de afuera
