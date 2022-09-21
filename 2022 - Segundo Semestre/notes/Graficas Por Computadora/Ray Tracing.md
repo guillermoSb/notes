@@ -184,6 +184,7 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 		1. Si hay refracción y calcular la refracción
 		2. refract = calcular el rayo de refracción enviando la normal del intercepto, dirección y el material.ior
 		3. obtenemos el refractOrign al revés que en el rayo del reflejo
+		4. obtener el refractColor casteando un rayo
 	9. Si vale más o igual a 1 no hay refracción
 	10. El color final es el color de reflejo por el (coeficiente + el color de refracción * (1-kr)) + color especular
-	11. 
+	
