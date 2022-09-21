@@ -162,4 +162,7 @@ sin(O1)/sin(O2) = n2/n1
 
 Describen la relación entre la cantidad de luz reflejada y luz refractada.
 
+**Implementando Refracción**
 
+1. Crear un nuevo tipo de material que sea TRANSPARENT
+2. 
