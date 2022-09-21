@@ -160,4 +160,6 @@ sin(O1)/sin(O2) = n2/n1
 
 **Fresnel Equation**
 
-Describen la relación entre la cantidad de luz reflejada y luz refractada
+Describen la relación entre la cantidad de luz reflejada y luz refractada.
+
+
