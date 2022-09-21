@@ -168,7 +168,7 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 2. Una nueva función que va a refractar un vector
 	1. Recibe: normal, dirección, ior (índice de refracción)
 3. Crear una función que implementa fresnel
-	1. Recib
+	1. Recibe normal, dirección, ior
 4. Agregar un valor **ior** al material
 5. Cuando casteamos el rayo, si la superficie es transparente
 	1. detectar si el rayo que incide viene de afuera haciendo un producto punto entre entre la dirección del rayo y la normal. Si este resultado es menor a 0 entonces el rayo viene de afuera
@@ -182,6 +182,8 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 	7. kr = fresnel(intersect.normal, dir, material.ior) coeficiente de refracción
 	8. Si este coeficiente es menora a 1
 		1. Si hay refracción y calcular la refracción
+		2. refract = calcular el rayo de refracción enviando la normal del intercepto, dirección y el material.ior
+		3. obtenemos el refractOrign al revés que en el rayo del reflejo
 	9. Si vale más o igual a 1 no hay refracción
-	10. El color final es el color de reflejo por el coeficiente + el color de refracción * (1-kr)) + color especular
+	10. El color final es el color de reflejo por el (coeficiente + el color de refracción * (1-kr)) + color especular
 	11. 
