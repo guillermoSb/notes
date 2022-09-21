@@ -179,4 +179,9 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 	5. En caso de estar a dentro
 		1. El origen del vector de reflejo será igual a la resta del intercepto.point - el bias
 	6. El nuevo color de reflejo lo obtenemos de castear el rayo desde el origen que obtuvimos, la dirección del reflejo, y le pasamos una referencia nil en el sceneObject
-	9. kr = fresnel(intersect.normal, dir, material.ior)
+	7. kr = fresnel(intersect.normal, dir, material.ior) coeficiente de refracción
+	8. Si este coeficiente es menora a 1
+		1. Si hay refracción y calcular la refracción
+	9. Si vale más o igual a 1 no hay refracción
+	10. El color final es el color de reflejo por el coeficiente + el color de refracción * (1-kr)) + color especular
+	11. 
