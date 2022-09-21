@@ -174,5 +174,9 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 	1. detectar si el rayo que incide viene de afuera haciendo un producto punto entre entre la dirección del rayo y la normal. Si este resultado es menor a 0 entonces el rayo viene de afuera
 	2. Agregar un **bias** que es un margen de error. Para que el rayo no tope consigo mismo. Es un vector que es la normal * 0.001
 	3. Obtener un vector de reflección utilizando de la misma forma que se usó en la superficie reflectiva
-	4. Obtener el 
-	5. kr = fresnel(intersect.normal, dir, material.ior)
+	4. En caso de que el rayo venga de afuera:
+		1. el origen del vector de reflejo será igual a la suma del intercepto.point + el bias
+	5. En caso de estar a dentro
+		1. El origen del vector de reflejo será igual a la resta del intercepto.point - el bias
+	6. Obtener el vector de refracción 
+	7. kr = fresnel(intersect.normal, dir, material.ior)
