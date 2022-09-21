@@ -170,4 +170,5 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 3. Crear una función que implementa fresnel
 	1. Recib
 4. Agregar un valor **ior** al material
-5. 
+5. Cuando casteamos el rayo, si la superficie es transparente
+	1. detectar si el rayo que incide viene de afuera haciendo un producto punto entre entre la dirección del rayo y la normal
