@@ -165,4 +165,9 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 **Implementando Refracción**
 
 1. Crear un nuevo tipo de material que sea TRANSPARENT
-2. 
+2. Una nueva función que va a refractar un vector
+	1. Recibe: normal, dirección, ior (índice de refracción)
+3. Crear una función que implementa fresnel
+	1. Recib
+4. Agregar un valor **ior** al material
+5. 
