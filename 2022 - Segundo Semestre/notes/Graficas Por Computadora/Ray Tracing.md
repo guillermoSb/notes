@@ -154,7 +154,7 @@ Whitted's algorithms
 
 Un material tiene un índice de refracción **ior** que indica que tánto se dobla un rallo de lúz cuando entra a un material.
 
-Utilizamos la ==ley de Snell== para encontrar la relación entre el ángulo de incidencia y el rayo de refracción
+Utilizamos la ==ley de Snell== para encontrar la relación entre el ángulo de inciden/cia y el rayo de refracción
 
 sin(O1)/sin(O2) = n2/n1
 
