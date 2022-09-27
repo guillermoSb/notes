@@ -62,4 +62,5 @@ Las dos máquinas son equivalentes para la cadena 1122212212
 `Pergunta: Para saber si la máquina es equivalente se debe probar con todas las sucesiones?`
 
 #### Def 7 
-Dos estados son equivalentes si al recibir una sucesión de entrada producen la misma sucesión de salida sin importar en 
+Dos estados son equivalentes si al recibir una sucesión de entrada producen la misma sucesión de salida sin importar en cuál de los dos se empiece.
+- Podemos reducir el autómata uniendo los estados que son equivalentes.
