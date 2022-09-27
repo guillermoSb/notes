@@ -47,5 +47,14 @@ Una máquina de estado finito está especificada por
 5. Función de transición 
 6. Función de salida
 
+En este caso la función de salida especifíca que caracter se le asigna a cada estado. Por ejemplo
+s0 - 0
+s1 - 0
+s2 - 1
+
+#### Def 6
+Dos máquinas son equivalentes si a partir de el estado inicial producen la misma sucesión de salida cuando se les da la misma sucesión de entrada.
+
+
 
 
