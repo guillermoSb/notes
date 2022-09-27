@@ -103,4 +103,4 @@ Si una sucesión conduce a un estado de aceptación, entonces es aceptada.
 #### Def 11
 Una sucesión es rechazada en caso contrario
 
-###
+### 
