@@ -64,3 +64,4 @@ Las dos máquinas son equivalentes para la cadena 1122212212
 #### Def 7 
 Dos estados son equivalentes si al recibir una sucesión de entrada producen la misma sucesión de salida sin importar en cuál de los dos se empiece.
 - Podemos reducir el autómata uniendo los estados que son equivalentes.
+![[Captura de Pantalla 2022-09-27 a la(s) 4.21.49 p.m..png]]
