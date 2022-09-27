@@ -55,6 +55,11 @@ s2 - 1
 #### Def 6
 Dos máquinas son equivalentes si a partir de el estado inicial producen la misma sucesión de salida cuando se les da la misma sucesión de entrada.
 
+![[Captura de Pantalla 2022-09-27 a la(s) 4.16.04 p.m..png]]
+Las dos máquinas son equivalentes para la cadena 1122212212
+![[Captura de Pantalla 2022-09-27 a la(s) 4.16.21 p.m..png]]
 
+`Pergunta: Para saber si la máquina es equivalente se debe probar con todas las sucesiones?`
 
-
+#### Def 7 
+Dos estados son equivalentes si al recibir una sucesión de entrada producen la misma sucesión de salida sin importar en 
