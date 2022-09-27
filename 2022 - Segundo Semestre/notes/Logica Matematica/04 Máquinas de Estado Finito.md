@@ -88,3 +88,5 @@ Esto que se mencionó son las particiones.
 Dos estados están en el mismo bloque de equivalencia si y solo sí están en el mismo bloque de la partición anterior y para todo caracter sus sucesores están en la partición anterior.
 
 
+==Hacer ejemplo==
+
