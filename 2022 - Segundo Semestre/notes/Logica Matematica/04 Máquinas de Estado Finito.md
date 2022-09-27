@@ -90,3 +90,9 @@ Dos estados están en el mismo bloque de equivalencia si y solo sí están en el
 
 ==Hacer ejemplo==
 
+
+#### Máquinas de estado finito como reconocedoras de lenguajes
+==NOTA== O={0,1} es el alfabeto de salida.
+
+#### Def 9
+Un estado de aceptación 
