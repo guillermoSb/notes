@@ -70,4 +70,11 @@ Para determinar que dos estados son totalmente equivalentes es necesario realiza
 
 #### Def 8
 1. Dos estados son 0 - equivalentes si tienen la misma salida
-2. Dos estados son 1 - equivalentes si tienen la misma salida y si para todo caracter de entrada sus sucesores son 
+2. Dos estados son 1 - equivalentes si tienen la misma salida y si para todo caracter de entrada sus sucesores son 0 - equivalentes.
+3. Dos estados son k equivalentes si tienen la misma salida y para todo caracter sus sucesores son (k-1) equivalentes.
+Si los estados son k equivalentes para toda k, entonces los estados son equivalentes.
+
+Ejemplo
+![[Captura de Pantalla 2022-09-27 a la(s) 4.35.08 p.m..png | 300]]
+1. A,C son 0 equivalentes
+2. G y H son 1 equivalentes
