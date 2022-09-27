@@ -34,6 +34,18 @@ Pregunta: En gramática para las cadenas de 3 caracteres
 
 #### Def 4
 Una gramática es de tipo 3 si todas sus producciones son de la siguiente forma.
-A -> a, 
+A -> a, A -> aB. o A -> a, A -> Ba
+
+
+
+#### Def 5
+Una máquina de estado finito está especificada por
+1. Conjunto de estados S
+2. Un estado inicial S0
+3. Caracteres de entrada I
+4. Caracteres de salida O
+5. Función de transición 
+6. Función de salida
+
 
 
