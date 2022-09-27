@@ -65,3 +65,9 @@ Las dos máquinas son equivalentes para la cadena 1122212212
 Dos estados son equivalentes si al recibir una sucesión de entrada producen la misma sucesión de salida sin importar en cuál de los dos se empiece.
 - Podemos reducir el autómata uniendo los estados que son equivalentes.
 ![[Captura de Pantalla 2022-09-27 a la(s) 4.21.49 p.m..png]]
+
+Para determinar que dos estados son totalmente equivalentes es necesario realizar un examen exhaustivo de todas las posibles entradas de una longitud determinada.
+
+#### Def 8
+1. Dos estados son 0 - equivalentes si tienen la misma salida
+2. Dos estados son 1 - equivalentes si tienen la misma salida y si para todo caracter de entrada sus sucesores son 
