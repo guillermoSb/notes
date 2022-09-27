@@ -30,5 +30,10 @@ Se componen de
 3. Conjunto de producciones P
 4. No terminal N que es el símbolo inicial
 
+Pregunta: En gramática para las cadenas de 3 caracteres
+
+#### Def 4
+Una gramática es de tipo 3 si todas sus producciones son de la siguiente forma.
+A -> a, 
 
 
