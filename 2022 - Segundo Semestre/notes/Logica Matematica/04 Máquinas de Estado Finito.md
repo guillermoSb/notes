@@ -20,5 +20,15 @@ L1 = {a,aa,ab,ac,abc,cab}
 L2 ={}
 L3 = {aba, ab, ac, abc, cab}
 
+==NOTA== como los lenguajes son conjuntos, podemos aplicar todas las operaciones de conjuntos a ellos.
+
+#### Def 3
+Las gramáticas especifican la estructura de las frases de un lenguaje.
+Se componen de 
+1. Conjunto de terminales T
+2. Conjunto de no terminales N
+3. Conjunto de producciones P
+4. No terminal N que es el símbolo inicial
+
 
 
