@@ -82,3 +82,9 @@ Ejemplo
 	2. pi1 = {{A,B,E}, {C,D}, {G,H}, {F}}
 	3. pi2 = {{A,B}, {E}, {C,D}, {F}, {G,H}}
 
+Esto que se mencionó son las particiones.
+
+#### Teorema 1
+Dos estados están en el mismo bloque de equivalencia si y solo sí están en el mismo bloque de la partición anterior y para todo caracter sus sucesores están en la partición anterior.
+
+
