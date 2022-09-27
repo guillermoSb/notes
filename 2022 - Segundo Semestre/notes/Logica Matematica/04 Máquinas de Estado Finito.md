@@ -78,3 +78,7 @@ Ejemplo
 ![[Captura de Pantalla 2022-09-27 a la(s) 4.35.08 p.m..png | 300]]
 1. A,C son 0 equivalentes
 2. G y H son 1 equivalentes
+	1. pi0 = {{A,B,C,D,E}, {F,G,H}}
+	2. pi1 = {{A,B,E}, {C,D}, {G,H}, {F}}
+	3. pi2 = {{A,B}, {E}, {C,D}, {F}, {G,H}}
+
