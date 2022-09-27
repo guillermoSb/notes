@@ -101,4 +101,6 @@ Un estado es de aceptación  si su salida es 1 y es de rechazo si su salida es 0
 Si una sucesión conduce a un estado de aceptación, entonces es aceptada.
 
 #### Def 11
-Una sucesión es recha
+Una sucesión es rechazada en caso contrario
+
+###
