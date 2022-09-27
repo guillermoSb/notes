@@ -103,4 +103,6 @@ Si una sucesión conduce a un estado de aceptación, entonces es aceptada.
 #### Def 11
 Una sucesión es rechazada en caso contrario
 
-### 
+### Def 12
+Un lenguaje es de estado finito si existe una máquina de estado finito que acepta todos los enunciados del lenguaje.
+
