@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022 - Segundo Semestre/notes/Graficas Por Computadora/Ray Tracing.md",
+            "file": "2022 - Segundo Semestre/notes/Logica Matematica/04 Automatas Finitos Deterministas.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022 - Segundo Semestre/notes/Graficas Por Computadora/Ray Tracing.md",
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/04 Automatas Finitos Deterministas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022 - Segundo Semestre/notes/Graficas Por Computadora/Ray Tracing.md",
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/04 Automatas Finitos Deterministas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022 - Segundo Semestre/notes/Graficas Por Computadora/Ray Tracing.md"
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/04 Automatas Finitos Deterministas.md"
               }
             }
           }
@@ -129,12 +129,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72886fe5d91a1485",
+  "active": "54dd5a73c7652fbc",
   "lastOpenFiles": [
+    "2022 - Segundo Semestre/notes/Graficas Por Computadora/Ray Tracing.md",
     "2022 - Segundo Semestre/notes/Ing de Software/Notas de Clase.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/04 Automatas Finitos Deterministas.md",
     "2022 - Segundo Semestre/notes/Teoría de la Computación/01 - Gramáticas.md",
-    "2022 - Segundo Semestre/notes/Graficas Por Computadora/Ray Tracing.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/03 Coloración de Grafos.md",
     "Libros/MicroServices.md",
