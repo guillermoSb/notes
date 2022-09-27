@@ -95,4 +95,10 @@ Dos estados están en el mismo bloque de equivalencia si y solo sí están en el
 ==NOTA== O={0,1} es el alfabeto de salida.
 
 #### Def 9
-Un estado de aceptación 
+Un estado es de aceptación  si su salida es 1 y es de rechazo si su salida es 0.
+
+#### Def 10
+Si una sucesión conduce a un estado de aceptación, entonces es aceptada.
+
+#### Def 11
+Una sucesión es recha
