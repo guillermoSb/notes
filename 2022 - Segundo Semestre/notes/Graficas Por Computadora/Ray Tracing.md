@@ -188,3 +188,6 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 	9. Si vale más o igual a 1 no hay refracción
 	10. El color final es el color de reflejo por el (coeficiente + el color de refracción * (1-kr)) + color especular
 	
+
+
+
