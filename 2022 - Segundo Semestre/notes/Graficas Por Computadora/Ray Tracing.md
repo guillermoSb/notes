@@ -195,4 +195,12 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 
 Un disco se dibuja casi de la igual forma de un plano. Sin embargo, también tiene un radio. 
 
-cons
+constructor
+	- Definir un self.plane
+	- asignar el radio
+
+rayIntersect
+	- toma el origen y la dirección
+	- calcula un intersect que es igual al self.plane rayIntersect(pasándole el origen y la dirección)
+	- validar si el intercepto esta dentro
+		- calcular la distancia del punto de contacto al origen (centro del disco)
