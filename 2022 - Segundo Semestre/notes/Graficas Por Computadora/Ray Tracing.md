@@ -191,3 +191,8 @@ Describen la relación entre la cantidad de luz reflejada y luz refractada.
 
 
 
+## Dibujando un Disco
+
+Un disco se dibuja casi de la igual forma de un plano. Sin embargo, también tiene un radio. 
+
+cons
