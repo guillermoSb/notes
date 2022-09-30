@@ -206,3 +206,6 @@ rayIntersect
 		- calcular la distancia del punto de contacto al origen  del plano (centro del disco)
 		- Si esa distancia es menor o igual al radio
 			- regresar el intersect. 
+
+
+## Agregando texturas a un bounding box
