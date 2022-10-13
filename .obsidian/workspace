@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Libros/React.md",
+            "file": "2022 - Segundo Semestre/notes/Graficas Por Computadora/OpenGL.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libros/React.md",
+                "file": "2022 - Segundo Semestre/notes/Graficas Por Computadora/OpenGL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libros/React.md",
+                "file": "2022 - Segundo Semestre/notes/Graficas Por Computadora/OpenGL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libros/React.md"
+                "file": "2022 - Segundo Semestre/notes/Graficas Por Computadora/OpenGL.md"
               }
             }
           }
@@ -131,6 +131,8 @@
   },
   "active": "72886fe5d91a1485",
   "lastOpenFiles": [
+    "2022 - Segundo Semestre/notes/Untitled.md",
+    "Libros/React.md",
     "2022 - Segundo Semestre/notes/Graficas Por Computadora/Ray Tracing.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/04 Máquinas de Estado Finito.md",
     "2022 - Segundo Semestre/notes/Ing de Software/Notas de Clase.md",
@@ -138,8 +140,6 @@
     "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/03 Coloración de Grafos.md",
     "Libros/MicroServices.md",
-    "Libros/Learning Domain Driven Design.md",
-    "2022 - Segundo Semestre/notes/Logica Matematica/01 Trayectorias y Circuitos.md",
-    "2022 - Segundo Semestre/notes/Graficas Por Computadora/Perlin Noise.md"
+    "Libros/Learning Domain Driven Design.md"
   ]
 }
