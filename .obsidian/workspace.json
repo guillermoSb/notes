@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "a27ac16f49d10aa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "47bca43edf065c4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72886fe5d91a1485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022 - Segundo Semestre/notes/Graficas Por Computadora/OpenGL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cd0f94d966e682e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022 - Segundo Semestre/notes/Teoría de la Computación/01 - Gramáticas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97f7a3ff47704276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/05 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "150e17150b7571ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "a47e72f96fd55e12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54dd5a73c7652fbc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b612d709021a057d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbaf4a0fa5f0cfb1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "b8910e75a873f0c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ee7dce0ab169d47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdbd09b038e60cad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/05 -.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e6adffb1f982e601",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/05 -.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "432faf4f37224c0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9d1989a127cc2fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022 - Segundo Semestre/notes/Logica Matematica/05 -.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "97f7a3ff47704276",
+  "lastOpenFiles": [
+    "2022 - Segundo Semestre/notes/Teoría de la Computación/01 - Gramáticas.md",
+    "2022 - Segundo Semestre/notes/Untitled.md",
+    "Libros/React.md",
+    "2022 - Segundo Semestre/notes/Graficas Por Computadora/Ray Tracing.md",
+    "2022 - Segundo Semestre/notes/Logica Matematica/04 Máquinas de Estado Finito.md",
+    "2022 - Segundo Semestre/notes/Ing de Software/Notas de Clase.md",
+    "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md",
+    "2022 - Segundo Semestre/notes/Logica Matematica/03 Coloración de Grafos.md",
+    "Libros/MicroServices.md",
+    "Libros/Learning Domain Driven Design.md"
+  ]
+}
