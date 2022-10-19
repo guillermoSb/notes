@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022 - Segundo Semestre/notes/Logica Matematica/05 -.md",
+                "file": "Development/React/Reducers.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022 - Segundo Semestre/notes/Logica Matematica/05 -.md",
+                "file": "Development/React/Reducers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022 - Segundo Semestre/notes/Logica Matematica/05 -.md",
+                "file": "Development/React/Reducers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022 - Segundo Semestre/notes/Logica Matematica/05 -.md"
+                "file": "Development/React/Reducers.md"
               }
             }
           }
@@ -167,6 +167,8 @@
   },
   "active": "97f7a3ff47704276",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2022 - Segundo Semestre/notes/Logica Matematica/05 -.md",
     "2022 - Segundo Semestre/notes/Teoría de la Computación/01 - Gramáticas.md",
     "2022 - Segundo Semestre/notes/Untitled.md",
     "Libros/React.md",
@@ -174,8 +176,6 @@
     "2022 - Segundo Semestre/notes/Logica Matematica/04 Máquinas de Estado Finito.md",
     "2022 - Segundo Semestre/notes/Ing de Software/Notas de Clase.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md",
-    "2022 - Segundo Semestre/notes/Logica Matematica/03 Coloración de Grafos.md",
-    "Libros/MicroServices.md",
-    "Libros/Learning Domain Driven Design.md"
+    "2022 - Segundo Semestre/notes/Logica Matematica/03 Coloración de Grafos.md"
   ]
 }
