@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6282deb6d7df115c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/React/Context.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/React/Reducers.md",
+                "file": "Development/React/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/React/Reducers.md",
+                "file": "Development/React/Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/React/Reducers.md"
+                "file": "Development/React/Context.md"
               }
             }
           }
@@ -165,8 +177,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "97f7a3ff47704276",
+  "active": "6282deb6d7df115c",
   "lastOpenFiles": [
+    "Development/React/Reducers.md",
     "Untitled.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/05 -.md",
     "2022 - Segundo Semestre/notes/Teoría de la Computación/01 - Gramáticas.md",
@@ -175,7 +188,6 @@
     "2022 - Segundo Semestre/notes/Graficas Por Computadora/Ray Tracing.md",
     "2022 - Segundo Semestre/notes/Logica Matematica/04 Máquinas de Estado Finito.md",
     "2022 - Segundo Semestre/notes/Ing de Software/Notas de Clase.md",
-    "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md",
-    "2022 - Segundo Semestre/notes/Logica Matematica/03 Coloración de Grafos.md"
+    "2022 - Segundo Semestre/notes/Logica Matematica/02 Grafos Planares.md"
   ]
 }
