@@ -10,4 +10,9 @@
 
 ## useReducer
 Podemos obtener el estado y la función dispatch que sirve para llamar al reducer.
+Enviamos
+- funcion reducer
+- Valor inicial
+- funcion de init
+La función de init se puede ejecutar la primera vez que el reducer se crea. Luego la función reducer permite hacer los cambios al estado.
 
