@@ -8,3 +8,6 @@
 ## Que tiene que regresar un reducer
 - Un nuevo estado
 
+## useReducer
+Podemos obtener el estado y la función dispatch que sirve para llamar al reducer.
+
